@@ -1,5 +1,7 @@
 # Homework-01
-First homework assignment refactoring
+Todd Taylor
+todd.taylor@utexas.edu
+First homework assignment refactoring Horiseon website
 
 # Changes to the HTML file
 
@@ -33,5 +35,7 @@ The **figcaption** default was changes to not display. Due to it impacting the w
 
 The rest of the sytlesheet was unchanged and the appropriate tags were changed in the html to get the desired formatting.
 
+![Website](assets/images/Horiseon.png)
 
+Enjoy the fabulous website for [Horiseon](https://dertodd.github.io/Homework-01/)
 
